@@ -1,6 +1,12 @@
 ### 课程
 
-[《一个小时学会 Python》](https://x.zhixing.co/courses/learn-python-in-1-hour)
+#### 📗 一个小时学会 Python
+
+[课程主页](https://x.zhixing.co/courses/learn-python-in-1-hour/)&emsp;[▶️ 哔哩哔哩](https://space.bilibili.com/3493258929899613/channel/seriesdetail?sid=3298788&ctype=0)&emsp;[▶️ Youtube](https://www.youtube.com/playlist?list=PLU7jXxAKmKkHn5HGPTiTER0mW9nek_kPd)
+
+#### 📗 一个小时学会 JavaScript
+
+[课程主页](https://x.zhixing.co/courses/learn-javascript-in-1-hour/)&emsp;[▶️ 哔哩哔哩](https://space.bilibili.com/3493258929899613/channel/seriesdetail?sid=3319015&ctype=0)&emsp;[▶️ Youtube](https://www.youtube.com/playlist?list=PLU7jXxAKmKkHiRyzXLz7GCnzFTkr_lyE1)
 
 ### 讨论
 
