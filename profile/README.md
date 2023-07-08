@@ -1,8 +1,8 @@
 ### 课程
 
-[![Promise和async/await](/profile/courses/promise-async-await.png)](https://x.zhixing.co/courses/promise-async-await/)
+[![JavaScript异步编程](/profile/courses/javascript-asynchronous-programming.png)](https://x.zhixing.co/courses/javascript-asynchronous-programming/)
 
-[📗 课程主页](https://x.zhixing.co/courses/promise-async-await/)&emsp;&emsp;[▶️ 哔哩哔哩](https://space.bilibili.com/3493258929899613/channel/collectiondetail?sid=1512348)&emsp;&emsp;[▶️ Youtube](https://www.youtube.com/playlist?list=PLU7jXxAKmKkEaWwhLqzZAYJfsMjzmsUT6)
+[📗 课程主页](https://x.zhixing.co/courses/javascript-asynchronous-programming/)&emsp;&emsp;[▶️ 哔哩哔哩](https://space.bilibili.com/3493258929899613/channel/collectiondetail?sid=1512348)&emsp;&emsp;[▶️ Youtube](https://www.youtube.com/playlist?list=PLU7jXxAKmKkEaWwhLqzZAYJfsMjzmsUT6)
 
 [![HTML和CSS入门教程](/profile/courses/learn-html-css-basic.png)](https://x.zhixing.co/courses/learn-javascript-in-1-hour/)
 
