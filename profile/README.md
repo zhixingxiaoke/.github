@@ -2,7 +2,7 @@
 
 #### React 入门实战教程
 
-[📗 课程主页](https://x.zhixing.co/courses/react-hands-on-tutorial-for-beginners/)&emsp;&emsp;[▶️ 哔哩哔哩](https://x.zhixing.co/courses/react-hands-on-tutorial-for-beginners/)&emsp;&emsp;[▶️ Youtube](https://x.zhixing.co/courses/react-hands-on-tutorial-for-beginners/)
+[📗 课程主页](https://x.zhixing.co/courses/react-hands-on-tutorial-for-beginners/)&emsp;&emsp;[▶️ 哔哩哔哩](https://space.bilibili.com/3493258929899613/channel/collectiondetail?sid=1570285)&emsp;&emsp;[▶️ Youtube](https://www.youtube.com/playlist?list=PLU7jXxAKmKkEtPqK-7IpIOnRjIlsEKn38)
 
 #### JavaScript 异步编程
 
